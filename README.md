@@ -69,3 +69,14 @@ intro-to-generative-models/
 ## Feedback
 
 This tutorial is a work in progress. Feedback and suggestions are always welcome. If you notice missing references, unclear explanations, or areas for improvement, please feel free to open an issue. While feedback is appreciated, please note that pull requests may not be accepted.
+
+## Citation
+```
+@misc{lim2025generative_tutorial,
+  author       = {Jae Hyun Lim},
+  title        = {An Introduction to Generative Modeling with Flow-Based and Diffusion-Based Models},
+  year         = {2025},
+  howpublished = {\url{https://github.com/lim0606/intro-to-generative-models}},
+  note         = {Version 0.1}
+}
+```
