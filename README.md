@@ -22,7 +22,7 @@ Much of this tutorial is adapted from my PhD thesis. Technical details such as a
 ## Planned Chapters
 
 This tutorial will be developed in parts, and the repository will grow as more content is added.  
-Currently, Chapters **1, 2, 3, 5, 6, A, and B** are prepared. Others will be added progressively.
+Currently, Chapters **1, 2, 3, 5, 6, and A** are prepared. Others will be added progressively.
 
 ### Part I
 - [x] 1. Introduction  
